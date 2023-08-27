@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-27T19:23:08 IST" name="Default suite" finished-at="2023-08-27T19:23:26 IST" duration-ms="18452">
+    <groups>
+    </groups>
+    <test started-at="2023-08-27T19:23:08 IST" name="Default test" finished-at="2023-08-27T19:23:26 IST" duration-ms="18452">
+      <class name="tests.schemavalidator">
+        <test-method signature="postcreatebook()[pri:1, instance:tests.schemavalidator@10959ece]" started-at="2023-08-27T19:23:08 IST" name="postcreatebook" finished-at="2023-08-27T19:23:17 IST" duration-ms="9002" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcreatebook -->
+        <test-method signature="getBookingname()[pri:2, instance:tests.schemavalidator@10959ece]" started-at="2023-08-27T19:23:17 IST" name="getBookingname" finished-at="2023-08-27T19:23:20 IST" duration-ms="2624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBookingname -->
+        <test-method signature="putBooking()[pri:3, instance:tests.schemavalidator@10959ece]" started-at="2023-08-27T19:23:20 IST" name="putBooking" finished-at="2023-08-27T19:23:26 IST" duration-ms="6747" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putBooking -->
+      </class> <!-- tests.schemavalidator -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
